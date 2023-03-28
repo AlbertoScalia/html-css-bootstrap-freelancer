@@ -1,0 +1,30 @@
+:root {
+    --white: #ffffff;
+    --dark-gray: #2c3e50;
+    --aqua: #1abc9c;
+    --gray: #3a546d;
+    --black: #333333;
+}
+
+/*****************************************************************/
+/**************************** General ****************************/
+body {
+    color: var(--white);
+}
+
+.max-width {
+    max-width: 1200px;
+}
+
+header nav {
+    background-color: var(--dark-gray);
+}
+
+#hero {
+    background-color: var(--aqua);
+}
+
+#portfolio{
+    background-color: var(--white);
+    color: var(--black);
+}
