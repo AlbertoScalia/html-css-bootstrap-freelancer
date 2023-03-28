@@ -16,15 +16,19 @@ body {
     max-width: 1200px;
 }
 
-header nav {
+header nav, #footer-inf {
     background-color: var(--dark-gray);
 }
 
-#hero {
+#hero, #about {
     background-color: var(--aqua);
 }
 
-#portfolio{
+#portfolio, #contact-me{
     background-color: var(--white);
     color: var(--black);
+}
+
+#footer-sup {
+    background-color: var(--gray);
 }
