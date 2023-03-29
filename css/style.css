@@ -36,6 +36,11 @@ header nav,
     background-color: var(--gray);
 }
 
+#footer-sup button{
+    width: 50px;
+    height: 50px;
+}
+
 .t-aqua {
     color: var(--aqua);
 }
