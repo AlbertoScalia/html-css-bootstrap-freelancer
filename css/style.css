@@ -36,3 +36,7 @@ header nav, #footer-inf {
 .t-aqua {
     color: var(--aqua);
 }
+
+.back-aqua {
+    background-color: var(--aqua);
+}
